@@ -5,4 +5,5 @@
 *&---------------------------------------------------------------------*
 REPORT zdj_test_dm2.
 
-WRITE 'Programm 2'.
+WRITE 'Programm 2 CB-4711'.
+write 'CB-4711'.
