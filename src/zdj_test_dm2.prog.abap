@@ -5,4 +5,4 @@
 *&---------------------------------------------------------------------*
 REPORT zdj_test_dm2.
 
-WRITE 'Programm 2'.
+WRITE 'Programm 2 Hotfix'.
